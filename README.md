@@ -1,8 +1,13 @@
 👋 Hi, I’m Steven Rouse
- a 3rd year self-guided Full-stack Engineer and Data Analyst
+
+A 3rd Year self-guided Full-stack Engineer and Data Analyst
+
  With 5+ CodeCademy Certifications pinned below
+ 
  I’m currently learning Three.js, Pure data, and R
+ 
  I’m currently looking to work with companies that use an array of Technologies and Data.
+ 
  How to reach me ... stevenr2049@gmail.com || https://www.linkedin.com/in/stevenrouse/ || https://leetcode.com/Rouse-Prog/
 
 <!---

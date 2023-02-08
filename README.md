@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ROUSE-prog
-- 👀 I’m interested in Front/Back-end development and Visual code/Data
+- 👀 I’m a 3rd year self-guided Full-stack Engineer and Data Analyst
+- With 5+ CodeCademy Certifications pinned below
 - 🌱 I’m currently learning Three.js, Pure data, and R
-- 💞️ I’m looking to collaborate on Visual Projects and Audio Projects
-- 📫 How to reach me ... stevenr2049@gmail.com
+- 💞️ I’m currently looking to work with companies that use an array of Technologies and Data.
+- 📫 How to reach me ... stevenr2049@gmail.com | https://www.linkedin.com/in/stevenrouse/ | https://leetcode.com/Rouse-Prog/
 
 <!---
 ROUSE-prog/ROUSE-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

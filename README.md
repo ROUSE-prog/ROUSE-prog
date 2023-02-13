@@ -4,7 +4,7 @@ A 3rd Year self-guided Full-stack Engineer and Data Analyst
 
  With 5+ CodeCademy Certifications pinned below
  
- I’m currently learning Three.js, Pure data, and R
+ I’m currently learning Next.js, Pure data, and R
  
  I’m currently looking to work with companies that use an array of Technologies and Data.
  

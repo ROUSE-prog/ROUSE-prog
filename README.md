@@ -4,7 +4,7 @@ A Full-stack Engineer and Data Analyst
 
  With 5+ CodeCademy Certifications pinned below
  
- I’m currently looking to work with companies that use an array of Technologies and Data.
+ I’m currently seeking a company to grow my skills!
  
  How to reach me ... stevenr2049@gmail.com || https://www.linkedin.com/in/stevenrouse/ || https://leetcode.com/Rouse-Prog/
 

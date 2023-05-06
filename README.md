@@ -6,8 +6,8 @@ A Full-stack Engineer and Data Analyst
  
  I’m currently seeking a role within a company to put my skills to broader use.
  
- How to reach me ... stevenr2049@gmail.com || https://www.linkedin.com/in/stevenrouse/ || https://leetcode.com/Rouse-Prog/
-
+ How to reach me ... stevenr2049@gmail.com || https://www.linkedin.com/in/stevenrouse/  
+ 
 <!---
 ROUSE-prog/ROUSE-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

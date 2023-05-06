@@ -4,7 +4,7 @@ A Full-stack Engineer and Data Analyst
 
  With 5+ CodeCademy Certifications pinned below
  
- I’m currently seeking a company to grow my skills!
+ I’m currently seeking a role within a company to put my skills to broader use.
  
  How to reach me ... stevenr2049@gmail.com || https://www.linkedin.com/in/stevenrouse/ || https://leetcode.com/Rouse-Prog/
 
